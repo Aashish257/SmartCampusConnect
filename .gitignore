@@ -38,4 +38,12 @@ yarn-error.*
 
 # generated native folders
 /ios
-/android
+
+# AI Agent Artifacts
+.gemini/
+.agent/
+brain/
+task.md
+implementation_plan.md
+walkthrough.md
+
